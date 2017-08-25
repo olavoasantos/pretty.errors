@@ -1,6 +1,6 @@
 {
   "name": "pretty.errors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just because they are errors doesn't mean they can't be pretty.",
   "main": "index.js",
   "scripts": {

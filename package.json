@@ -1,0 +1,25 @@
+{
+  "name": "pretty.errors",
+  "version": "0.0.1",
+  "description": "Just because they are errors doesn't mean they can't be pretty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olavoasantos/pretty.errors.git"
+  },
+  "keywords": [
+    "errors"
+  ],
+  "author": "Olavo Amorim Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olavoasantos/pretty.errors/issues"
+  },
+  "homepage": "https://github.com/olavoasantos/pretty.errors#readme",
+  "dependencies": {
+    "console.echo": "0.0.3"
+  }
+}
